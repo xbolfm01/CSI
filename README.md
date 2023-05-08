@@ -8,6 +8,6 @@ Rozpoznávanie a vykresľovanie hrán z obrázkov s možnosťou výberu (cez GUI
 
 ![Obrázok1](https://user-images.githubusercontent.com/60688750/236798514-8ad40adf-a37e-433c-93a8-868db3415e1f.png)
 
-<h3> Vykreslenie hrán po adaptívnom prahovaní. Vľavo je možné vidieť jednoduché GUI. </h3>
+<h3> Vykreslenie hrán po adaptívnom prahovaní </h3>
 
 ![Obrázok3](https://user-images.githubusercontent.com/60688750/236798405-c1830e5f-ba46-4558-9c3f-83c564d9755f.png)
