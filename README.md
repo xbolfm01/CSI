@@ -1,5 +1,4 @@
-# CSI
-CSI_Project
+# hRANOVÝ DETEKTOR
 
 <h3> Úvod </h3>
 Rozpoznávanie a vykresľovanie hrán z obrázkov s možnosťou výberu (cez GUI) jednotlivých filtrov, ktoré sú už implementované v knižiniciach Pythonu. Naopak niektoré filtry definované neboli, a tak bolo potrebné definovať masky. 
